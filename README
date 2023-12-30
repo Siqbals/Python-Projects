@@ -1,1 +1,10 @@
+Python Truth Table Generator 
+
+Overview:
+Given a logic expression consisting of not's and and's, the algorithm can generate a truth table for it 
+and output it to a csv file 
+the expressions are collected from the exprs.txt file and are outputted to the output.csv file 
+  expressions in the exprs.txt file use brackets to seperate sub expressions, the algorithm automatically computes these in order 
+currently the algorithm does not support the use of or
+
 
